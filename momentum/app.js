@@ -13,3 +13,18 @@ console.log(myName);
 
 myName = "lee";
 console.log(myName);
+
+// Boolean, Array 패스
+
+/**
+ * objects
+ *
+ */
+
+const player = {
+  name: "ho",
+  points: 10,
+};
+
+console.log(player);
+console.log(player.name);
