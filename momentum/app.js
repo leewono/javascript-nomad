@@ -28,3 +28,15 @@ const player = {
 
 console.log(player);
 console.log(player.name);
+
+/**
+ * function
+ *
+ */
+
+function createFuncion(name, age) {
+  console.log("Function");
+  console.log(name, age);
+}
+createFuncion("ho");
+createFuncion(10);
